@@ -6,6 +6,8 @@
 - Without the need of a traditional internet or server connection. Open source projects are my goal. Once i learn how to code! 
 - 📫 How to reach me ...
 
+"Il reste toujour un peut de parfum a la main qui tend la rose"
+
 <!---
 GlitchCrafter/GlitchCrafter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
